@@ -1,4 +1,4 @@
-<img align="center" alt="panda" src="https://user-images.githubusercontent.com/78918631/121336247-f757a580-c938-11eb-9fae-08fc715e3cff.gif" />
+<img align="centre" alt="panda" src="https://user-images.githubusercontent.com/78918631/121336247-f757a580-c938-11eb-9fae-08fc715e3cff.gif" />
 
 ```js
 <About Me>
