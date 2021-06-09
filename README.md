@@ -1,6 +1,5 @@
 ### Who Am I?
   I am a random simp who is addicted to coding, gaming and discord :)
-###  ▬▬
   
 - 🔭 I’m currently working on Akimitsu discord bot
 - 🌱 I’m currently learning everything that i can learn
