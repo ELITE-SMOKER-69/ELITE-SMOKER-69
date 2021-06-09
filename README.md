@@ -1,3 +1,5 @@
+![panda](https://user-images.githubusercontent.com/78918631/121336247-f757a580-c938-11eb-9fae-08fc715e3cff.gif)
+
 ```js
 <About Me>
 I am a random simp who is addicted to coding, gaming and discord :)
