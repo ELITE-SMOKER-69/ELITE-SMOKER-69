@@ -1,4 +1,4 @@
-<img align="right" alt="panda" src="https://user-images.githubusercontent.com/78918631/121336247-f757a580-c938-11eb-9fae-08fc715e3cff.gif" />
+<img align="right" alt="smoker" width="30px" src="https://media.discordapp.net/attachments/775911357139910696/793728419825319976/standard_3.gif" />
 
 ```js
 <About Me>
