@@ -1,4 +1,4 @@
-<img align="right" alt="smoker" width="130px" src="https://media.discordapp.net/attachments/775911357139910696/793728419825319976/standard_3.gif" />
+<img align="right" alt="smoker" width="92px" src="https://media.discordapp.net/attachments/775911357139910696/793728419825319976/standard_3.gif" />
 
 ```js
 <About Me>
