@@ -1,6 +1,6 @@
 <img align="right" alt="smoker" width="150px" src="https://media.discordapp.net/attachments/775911357139910696/793728419825319976/standard_3.gif" />
 
-```
+```js
 <About Me>
 I am a random simp who is addicted to coding, gaming and discord :)
   ```
